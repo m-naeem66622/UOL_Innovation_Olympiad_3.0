@@ -1,3 +1,4 @@
+
 def is_zero(n : int, ind : int) -> int:
     if ((n & (1 << ind)) == 0):
         return 0
@@ -25,4 +26,5 @@ def solution(num:int) -> int:
     return result
 
 # Given Test Case
-print(solution(5))
+print(solution(32))
+print(solution(1041))
