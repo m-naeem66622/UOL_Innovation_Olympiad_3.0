@@ -9,11 +9,11 @@ This event is for confident programmers who have enhanced problem solving skills
 Teams will compete against each other out of which 25 teams will progress to round 2. The difficulty level for this round will be moderate.
 
 ## **Round 2:**
-Twenty-five teams will compete against each other out of which ten teams will progress to round
+Twenty-five teams will compete against each other out of which ten teams will progress to round 3
 
 The difficulty level for this round will be hard.
 
-## **Round 2:**
+## **Round 3:**
 A winner will be decided among the ten teams.
 
 As it is a final round the difficulty level for this round will be competitive.
